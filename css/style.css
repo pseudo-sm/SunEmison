@@ -5,13 +5,14 @@
     Author URL: https://bootstrapmade.com
 */
 /* ==== Google font ==== */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400, 300, 700, 900);
+@import url("https://fonts.googleapis.com/css?family=Roboto:400, 300, 700, 900");
 @import url("https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700");
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
   width: 100%;
   height: 100%;
-  font-family: "Ek Mukta", sans-serif;
+  font-family: 'Montserrat', sans-serif; /* Change this to change the font */
   font-weight: 300;
   color: #666;
   background-color: #fff;
@@ -52,7 +53,7 @@ p {
 .site-logo a.brand {
   color: #ff7e02;
   font-size: 30px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 900;
 }
 .site-logo a.brand:hover {
