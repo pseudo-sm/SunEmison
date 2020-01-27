@@ -618,6 +618,7 @@ textarea#message {
   border-radius: 10px;
   line-height: 1.5em;
   font-size: 1em;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.39), 0 -1px 1px #FFF, 0 1px 0 #FFF;
 }
 .form-group>input{
   height: 3em;
